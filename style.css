@@ -150,3 +150,32 @@ header nav .nav-contents > p {
   display: flex;
   justify-content: space-between
 }
+/* Latest Deals section  */
+.latest-deal-section{
+  text-align: center;
+  
+}
+.latest-deal-bg{
+  background: url('./images/Rectangle\ 9.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0;
+  margin: 100px 0;
+}
+
+.latest-deal-captions > h2{
+  color: #272727;
+  font-size: 40px;
+}
+.latest-deal-captions > p{
+  color: #27272799;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.Enter-your-email-here{
+    padding: 20px 90px;
+    border: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
