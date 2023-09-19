@@ -1,3 +1,45 @@
-h1{
-    color: brown;
+* {
+  font-family: "Lato", sans-serif;
+}
+h2 {
+  font-weight: 700;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.btn {
+  background-color: #e55473;
+  color: #fff;
+  font-size: 20px;
+  border: 0;
+  padding: 20px 40px;
+  border-radius: 8px;
+}
+
+/* header */
+header {
+  background: #e554731a;
+}
+nav {
+  padding: 50px 240px 0px 240px;
+}
+header .nav-flex {
+  display: flex;
+  justify-content: space-between;
+}
+header nav .nav-image {
+  width: 100%;
+}
+header nav .nav-contents {
+  text-align: left;
+}
+header nav .nav-contents > h2 {
+  color: #272727;
+  font-size: 80px;
+}
+header nav .nav-contents > p {
+  color: #272727;
+  font-size: 18px;
+  font-weight: 400;
 }
