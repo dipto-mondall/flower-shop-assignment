@@ -179,3 +179,20 @@ header nav .nav-contents > p {
     border-radius: 8px;
     margin-right: 10px;
 }
+
+/* about-us-section */
+.about-us-section{
+   text-align: center;
+   background: #e554731a;
+   padding: 50px;
+}
+.about-us-section > h2{
+  color: #272727;
+  font-size: 40px;
+}
+.about-us-section > p{
+  color: #27272799;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
